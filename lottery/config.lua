@@ -84,4 +84,3 @@ Config.LotteryLocations = { -- https://filmcrz.github.io/blips/
 
 }
 
-
